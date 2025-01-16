@@ -7,56 +7,17 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+> ✍ I am a freelance developer with 1 year of experience.
 
 <br />
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=turtle123456789&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=turtle123456789&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=turtle123456789&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 📫 How to reach me:
+---
+[![](https://visitcount.itsvg.in/api?id=turtle123456789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
-## Skills:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</p>
-
-## Activities:
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
