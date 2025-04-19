@@ -1,8 +1,13 @@
 
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/90664619?v=4">
-</div>
 
+<div align="center">
+   <a href="https://github.com/turtle123456789">
+  <img src="https://avatars.githubusercontent.com/u/90664619?v=4" 
+       width="100" 
+       height="100" 
+       style="border-radius: 100%;">
+     </a>
+</div>
 <p align="center">
   <a href="https://github.com/turtle123456789">
     <img width="10%" align="center" alt="PIC" height="100%"
