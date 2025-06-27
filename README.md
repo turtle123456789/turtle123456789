@@ -8,12 +8,12 @@
        style="border-radius: 100%;">
      </a>
 </div>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/turtle123456789">
     <img width="10%" align="center" alt="PIC" height="100%"
         src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
    </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/turtle123456789">
