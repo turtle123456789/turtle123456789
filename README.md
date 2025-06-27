@@ -10,13 +10,6 @@
 </div>
 
 
-<p align="center">
-    <a href="https://github.com/turtle123456789">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Pham+Duc+Quy;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
-    </a>
-</p>
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pham.uc.quy.192493/?locale=vi_VN) 
 
